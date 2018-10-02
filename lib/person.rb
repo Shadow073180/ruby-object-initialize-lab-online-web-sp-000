@@ -1,6 +1,6 @@
 class Person
 
-initialize(name)
+ jdef initialize (name)
   @name = name
 end
 
